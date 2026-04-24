@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="IT_WFA_ADO/IT_WFA_ADO.csproj" />
   <Project Path="IT_AracKiralama/IT_AracKiralama.csproj" />
   <Project Path="IT_Formlar_Arasi_Gecis/IT_Formlar_Arasi_Gecis.csproj" Id="40a75aa5-d9cd-4776-90bc-87dae30d9a9e" />
   <Project Path="IT_Game/IT_Game.csproj" Id="c7e5c924-f4f2-43ed-a182-4531aacfb691" />
